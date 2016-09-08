@@ -4,10 +4,10 @@
     <title>Smikev title page</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://smike.ml/</link>
-    <atom:link href="http://smike.ml/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 08 Sep 2016 15:46:29 -0400</pubDate>
-    <lastBuildDate>Thu, 08 Sep 2016 15:46:29 -0400</lastBuildDate>
+    <link>smikev.github.io/</link>
+    <atom:link href="smikev.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 08 Sep 2016 15:53:43 -0400</pubDate>
+    <lastBuildDate>Thu, 08 Sep 2016 15:53:43 -0400</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -28,8 +28,8 @@
 
 </description>
         <pubDate>Sat, 13 Aug 2016 13:34:55 -0400</pubDate>
-        <link>http://smike.ml/jekyll/update/2016/08/13/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://smike.ml/jekyll/update/2016/08/13/welcome-to-jekyll.html</guid>
+        <link>smikev.github.io/jekyll/update/2016/08/13/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">smikev.github.io/jekyll/update/2016/08/13/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
@@ -59,8 +59,8 @@
 &lt;p&gt;Удачи всем !&lt;/p&gt;
 </description>
         <pubDate>Tue, 27 Jan 2015 17:45:00 -0500</pubDate>
-        <link>http://smike.ml/%D0%9A%D1%80%D0%B8%D0%B7%D0%B8%D1%81/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8/%D0%A0%D1%8B%D0%BD%D0%BE%D0%BA/2015/01/27/Wpress-post.html</link>
-        <guid isPermaLink="true">http://smike.ml/%D0%9A%D1%80%D0%B8%D0%B7%D0%B8%D1%81/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8/%D0%A0%D1%8B%D0%BD%D0%BE%D0%BA/2015/01/27/Wpress-post.html</guid>
+        <link>smikev.github.io/%D0%9A%D1%80%D0%B8%D0%B7%D0%B8%D1%81/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8/%D0%A0%D1%8B%D0%BD%D0%BE%D0%BA/2015/01/27/Wpress-post.html</link>
+        <guid isPermaLink="true">smikev.github.io/%D0%9A%D1%80%D0%B8%D0%B7%D0%B8%D1%81/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8/%D0%A0%D1%8B%D0%BD%D0%BE%D0%BA/2015/01/27/Wpress-post.html</guid>
         
         
         <category>Кризис</category>
@@ -96,8 +96,8 @@
 &lt;p&gt;Удачи всем !&lt;/p&gt;
 </description>
         <pubDate>Tue, 27 Jan 2015 17:45:00 -0500</pubDate>
-        <link>http://smike.ml/%D0%9A%D1%80%D0%B8%D0%B7%D0%B8%D1%81/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8/%D0%A0%D1%8B%D0%BD%D0%BE%D0%BA/2015/01/27/Wpress-post-2.html</link>
-        <guid isPermaLink="true">http://smike.ml/%D0%9A%D1%80%D0%B8%D0%B7%D0%B8%D1%81/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8/%D0%A0%D1%8B%D0%BD%D0%BE%D0%BA/2015/01/27/Wpress-post-2.html</guid>
+        <link>smikev.github.io/%D0%9A%D1%80%D0%B8%D0%B7%D0%B8%D1%81/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8/%D0%A0%D1%8B%D0%BD%D0%BE%D0%BA/2015/01/27/Wpress-post-2.html</link>
+        <guid isPermaLink="true">smikev.github.io/%D0%9A%D1%80%D0%B8%D0%B7%D0%B8%D1%81/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8/%D0%A0%D1%8B%D0%BD%D0%BE%D0%BA/2015/01/27/Wpress-post-2.html</guid>
         
         
         <category>Кризис</category>
